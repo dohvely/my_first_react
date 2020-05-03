@@ -15,6 +15,11 @@ function Main() {
         <span>
           <Link to="/movieList">무비월드</Link>
         </span>
+        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/247/money-with-wings_1f4b8.png" alt="money" />
+        <br/>
+        <span>
+          <Link to="/kyonggiStoreList">경기지역화폐</Link>
+        </span>
       </div>
     </div>
     </section>
