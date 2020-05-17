@@ -12,11 +12,22 @@ function KyonggiStoreList() {
 
       <div className="content_wrapper">
         <div className="content_left">
-          <p>content_left</p>
-          <p>content_left</p>
-          <p>content_left</p>
-          <p>content_left</p>
-          <p>content_left</p>
+          <div>
+            <select></select>
+            <input></input>
+            <button>검색</button>
+          </div>
+          <div>
+            <ul>
+              <li>content_left</li>
+              <li>content_left</li>
+              <li>content_left</li>
+              <li>content_left</li>
+              <li>content_left</li>
+              <li>content_left</li>
+              <li>content_left</li>
+            </ul>
+          </div>
         </div>
         <aside className="content_right">
           <p>aside</p>
